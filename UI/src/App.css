@@ -1,0 +1,143 @@
+#image {
+  background-image: url("./images/How-to-lose-fat.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 70vh;
+}
+
+.navbar-brand {
+  font-weight: 800;
+  font-size: x-large;
+}
+.navbar {
+  background-color: rgb(247, 211, 8);
+}
+
+.hero {
+  font-weight: 900;
+  font-size: 60px;
+}
+
+.herRow {
+  margin-top: 5rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+body {
+  background-color: rgb(202, 241, 228);
+}
+
+.change {
+  height: 3rem;
+  width: 20rem;
+  font-size: large;
+  font-weight: 600;
+}
+.hehe {
+  width: 8rem;
+}
+
+.edhr {
+  margin-top: 3rem;
+}
+.villain {
+  width: 90%;
+}
+
+.sec0 {
+  margin-top: 3rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+.sec1 {
+  font-size: 50px;
+  font-weight: 900;
+}
+.mamd {
+  margin-top: 100px;
+}
+
+.goa {
+  text-align: center;
+  padding-top: 120px;
+}
+
+#aaa {
+  font-size: 50px;
+  font-weight: 800;
+  margin-bottom: 16px;
+}
+
+#bbb {
+  min-width: unset;
+  max-width: 550px;
+}
+
+.icon1 {
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  margin-top: 30px;
+  margin-right: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ajain {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-weight: 700;
+}
+
+.track-main {
+  margin-top: 50px;
+}
+.traker {
+  font-size: 50px;
+  font-weight: 800;
+  margin-bottom: 16px;
+}
+
+.tasveer {
+  background-image: url(""), url("./images/football.jpg");
+  background-position: right, left;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100%;
+}
+
+.dedo {
+  margin-left: 5px;
+}
+
+.run {
+  margin-top: 60px;
+}
+.gum {
+  font-size: 30px;
+  font-weight: 700;
+}
+#pic3 {
+  height: 20rem;
+}
+
+#pic4 {
+  height: 13rem;
+}
+
+.footer {
+  margin-top: 30px;
+}
+.icon {
+  padding-left: 3px;
+  padding-right: 3px;
+  color: green;
+}
+.spacing {
+  margin-top: 10px;
+}
+
+.hmHain {
+}
